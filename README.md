@@ -1,6 +1,5 @@
 # Sikkim-monastery-explorer
 Winning project of sih 2025
-# Sikkim Monastery Explorer
 
 Smart India Hackathon 2025 project by Team CodeMonks.
 
